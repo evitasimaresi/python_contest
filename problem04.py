@@ -6,4 +6,4 @@ while linux <= int(nk[0]) :
         break
     linux += min(int(nk[1]), linux)
     t+=1
-print("Number of hours needed to implementinstalling Linux on all computers", t)
+print(t)
