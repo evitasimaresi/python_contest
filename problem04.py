@@ -1,4 +1,4 @@
-nk = input().split()
+nk = list(input().split())
 t = 0 
 linux =1
 while linux <= int(nk[0]) :
